@@ -24,6 +24,16 @@ nav li a {
 }
 
 nav li a:hover{
-    color: yellow;
+    color: rgb(0, 234, 255);
     text-decoration: none;
 }
+
+.avatar-ctn {
+    background-color: orange;
+    text-align: center;
+  }
+  
+  .avatar {
+    width: 45%;
+    border-bottom: 1px solid rgba(0,0,0,0.125);
+  }
